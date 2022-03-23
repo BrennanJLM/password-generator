@@ -1,5 +1,5 @@
 ## Password Generator Challenge (Module 3)
-The purpose of this challenge was to start creating an online portfolio for potential employers to view.
+The purpose of this challenge was to create a password generator that would output user responses to criteria for their password.
 
 ## Installation:
 In order to access the files needed to complete the challenge see: https://github.com/BrennanJLM/password-generator and clone either the following HTTPS link or SSH key:
